@@ -1,0 +1,20 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.label {
+    font-size: 14px;
+    -fx-text-fill: #54e1a1;
+    margin: 10px 0;
+    -fx-font-size:  20px;
+    -fx-font-weight: bold;
+}
