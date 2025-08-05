@@ -57,7 +57,7 @@
                 </executions>
                 <configuration>
                     <!--<mainClass>atlix.app.Main</mainClass>-->
-                    <mainClass>atlix.controller.RandomController</mainClass>
+                    <mainClass>atlix.controller.FilterListExample</mainClass>
                 </configuration>
             </plugin>
         </plugins>
